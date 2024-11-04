@@ -1,0 +1,2 @@
+$ eval "$(ssh-agente -s)"
+> Agente pid 59566
